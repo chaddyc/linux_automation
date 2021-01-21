@@ -1,4 +1,4 @@
-## linux_automation
+## systems-automation
 Linux Automation scripts to automate certain tasks on a system or accross the network.
 
 ## General
